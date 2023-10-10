@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/mygame.umap",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/My_GameMode.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/BluePrints/BP_Player.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/BluePrints/BP_Pursuer_AI.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/BluePrints/BP_Pursuer.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/ControlRig/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/BluePrints/EAIState.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/Widgets/HealthBar.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/Widgets/Score.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/Widgets/RestartButton.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/BluePrints/BP_Mortar.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/BluePrints/BP_Bullet.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/BluePrints/BP_Health.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/BluePrints/BP_Score.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/BluePrints/BP_Roller.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/StarterContent/Props/SM_Stairs.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/Widgets/WinBP.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/BluePrints/BP_Donk.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/MyLevel_BuiltData.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/MyLevel.umap",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/BluePrints/BP_Pawn.uasset",
+				"C:/Users/moyee/OneDrive/Documents/Unreal Projects/MyProject/Content/Minimal_Default.umap"
+			]
+		}
+	]
+}
